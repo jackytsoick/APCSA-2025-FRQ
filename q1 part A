@@ -1,0 +1,7 @@
+public int walkDogs(int hour) {
+    int numDogs = 0;
+    if (maxDogs >= numDogs) {
+       company.updateDogs(hour, numDogs);
+       return numDogs;
+    }
+}
