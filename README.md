@@ -1,4 +1,4 @@
-# APCSA-2025-FRQ
+# AP-FRQs-2025
 Solutions written by Cheuk Ki Tsoi
 
 # Introduction
@@ -8,13 +8,13 @@ This repository contains my solutions and reflections for the AP Computer Scienc
 In this section, I reflect on my overall experience taking the AP Computer Science exam:
 
 My preparation strategy for the exam included...
-The most challenging aspects of the exam were...
+The most challenging aspects of the exam were: things related to ArrayList
 Time management techniques that worked well for me...
 Mental strategies I used when encountering difficult questions...
 # Growth Opportunities
 Through this review process, I've identified these areas for continued learning:
 
-Topic/Concept 1: [Brief description of what to improve]
+Topic/Concept 1: ArrayList
 Topic/Concept 2: [Brief description of what to improve]
 Programming practice: [Specific practice goals]
 # Resources
