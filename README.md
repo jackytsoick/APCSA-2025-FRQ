@@ -20,7 +20,7 @@ Programming practice: [Specific practice goals]
 # Resources
 Resources I found helpful during my exam preparation and review:
 
-[Resource name and link]
-[Resource name and link]
-[Resource name and link]
+[https://www.youtube.com/watch?v=XB1h9mJIjQc]
+[https://www.youtube.com/watch?v=_mClihsGtjY]
+
 
