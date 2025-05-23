@@ -2,7 +2,7 @@
 Solutions written by Cheuk Ki Tsoi
 
 # Introduction
-This repository contains my solutions and reflections for the AP Computer Science exam taken on [Date]. While reviewing the released questions, I've documented my approach, insights gained, and areas for future growth.
+This repository contains my solutions and reflections for the AP Computer Science exam taken on 5/7. While reviewing the released questions, I've documented my approach, insights gained, and areas for future growth.
 
 # Exam Experience
 In this section, I reflect on my overall experience taking the AP Computer Science exam:
