@@ -10,5 +10,5 @@ public int dogWalkShift(int startHour, int endHour) {
             amtEarned += 3;
         }
     }
-        return amtEarned;
+    return amtEarned;
 }
