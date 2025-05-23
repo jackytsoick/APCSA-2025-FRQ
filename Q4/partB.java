@@ -8,3 +8,6 @@ public boolean clearPair(int row, int col) {
     for (int i = row; i < puzzle.length; i++) {
         for (int j = 0; j < puzzle[i].length; j++) {
             if (i == row && j == col) {
+            }
+        }
+    }
