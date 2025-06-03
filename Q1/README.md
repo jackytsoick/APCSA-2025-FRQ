@@ -1,8 +1,6 @@
-#Question 1 
+# Question 1 Analysis
 
-#Analysis
-
-Dog Walker
+# Dog Walker
 This section contains my analysis of Question 1 (Methods and Control Structures):
 
 My initial approach during the exam:
