@@ -14,9 +14,9 @@ In this section, I reflect on my overall experience taking the AP Computer Scien
 # Growth Opportunities
 Through this review process, I've identified these areas for continued learning:
 
-- Topic/Concept 1: ArrayList
-- Topic/Concept 2: [Brief description of what to improve]
-- Programming practice: [Specific practice goals]
+- Topic/Concept 1: [ArrayList]
+- Topic/Concept 2: [Calling already established class/methods]
+- Programming practice: [Find projects I can use to train myself for topics I'm strugglng with.]
 # Resources
 Resources I found helpful during my exam preparation and review:
 
