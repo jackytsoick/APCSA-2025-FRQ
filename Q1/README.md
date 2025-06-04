@@ -1,6 +1,6 @@
 # Question 1 Analysis
 
-###Dog Walker
+### Dog Walker
 
 This section contains my analysis of Question 1 (Methods and Control Structures):
 
