@@ -5,13 +5,13 @@
 This section contains my analysis of Question 1 (Methods and Control Structures):
 
 **My initial approach during the exam:**
-- Ideas here
+- Analyzing DogWalkCompany class and company in DogWalker class
 
 **My revised solution after review:**
 - Ideas here
 
 **Key concepts tested in this question:**
-- Ideas here
+- Methods & Class calling
 
 **What I learned from revisiting this problem:**
 - Ideas here
