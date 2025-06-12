@@ -2,7 +2,7 @@
 
 ### SumOrSameGame/clearPair
 
-This section contains my analysis of Question 3 (Arrays and ArrayLists):
+This section contains my analysis of Question 4 (2D Arrays):
 
 **My initial approach during the exam:**
 - Planning how to incorporate random into the puzzle 2D array
